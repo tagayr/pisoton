@@ -1,0 +1,136 @@
+{
+    "basic_info": {
+        "player_id": "937958",
+        "name": "Lamine Yamal",
+        "age": 17,
+        "position": "Attack - Right Winger",
+        "height": "1.80",
+        "foot": "left",
+        "agent": "Agent is known - Player under 18",
+        "nationality": "Spain, Equatorial Guinea"
+    },
+    "market_value_info": {
+        "value": 180000000,
+        "currency": "€",
+        "last_update": "Dec 27, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958",
+    "performance_stats": {
+        "Season 2024": {
+            "LaLiga": {
+                "Games": 22,
+                "Goals": 5,
+                "Assists": 12,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1795
+            },
+            "UEFA Champions League": {
+                "Games": 7,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 600
+            },
+            "Copa del Rey": {
+                "Games": 2,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 167
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 2,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 122
+            }
+        },
+        "Season 2023": {
+            "LaLiga": {
+                "Games": 37,
+                "Goals": 5,
+                "Assists": 5,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2196
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 0,
+                "Assists": 2,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 579
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 77
+            },
+            "Copa del Rey": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 105
+            }
+        },
+        "Season 2022": {
+            "UEFA Youth League": {
+                "Games": 6,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 245
+            },
+            "Promoción a LaLiga2": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 29
+            },
+            "LaLiga": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 7
+            },
+            "Primera Federación - Gr. II": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 23
+            }
+        },
+        "Season 2021": {},
+        "Season 2020": {}
+    }
+}

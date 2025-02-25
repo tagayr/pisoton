@@ -1,0 +1,255 @@
+{
+    "basic_info": {
+        "player_id": "576024",
+        "name": "Julián Alvarez",
+        "age": 25,
+        "position": "Attack - Centre-Forward",
+        "height": "1.70",
+        "foot": "right",
+        "agent": "Fernando Hidalgo",
+        "nationality": "Argentina, Italy"
+    },
+    "market_value_info": {
+        "value": 80000000,
+        "currency": "€",
+        "last_update": "Dec 27, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024",
+    "performance_stats": {
+        "Season 2024": {
+            "LaLiga": {
+                "Games": 25,
+                "Goals": 9,
+                "Assists": 2,
+                "Yellow Cards": 4,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1676
+            },
+            "UEFA Champions League": {
+                "Games": 8,
+                "Goals": 6,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 581
+            },
+            "Copa del Rey": {
+                "Games": 5,
+                "Goals": 4,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 215
+            }
+        },
+        "Season 2023": {
+            "Premier League": {
+                "Games": 36,
+                "Goals": 11,
+                "Assists": 9,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2659
+            },
+            "UEFA Champions League": {
+                "Games": 7,
+                "Goals": 5,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 279
+            },
+            "FA Cup": {
+                "Games": 6,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 260
+            },
+            "Club World Cup": {
+                "Games": 2,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 115
+            },
+            "UEFA Super Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 5
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            },
+            "EFL Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 73
+            }
+        },
+        "Season 2022": {
+            "Premier League": {
+                "Games": 31,
+                "Goals": 9,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1454
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 3,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 468
+            },
+            "FA Cup": {
+                "Games": 5,
+                "Goals": 3,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 392
+            },
+            "EFL Cup": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 180
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 32
+            }
+        },
+        "Season 2021": {
+            "Copa de la Liga (- 23/24)": {
+                "Games": 11,
+                "Goals": 8,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 884
+            },
+            "Libertadores": {
+                "Games": 8,
+                "Goals": 6,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 720
+            },
+            "Liga Profesional (- 23/24)": {
+                "Games": 5,
+                "Goals": 3,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 390
+            },
+            "Copa Argentina": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 73
+            },
+            "Copa de la Liga - Playoffs": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2020": {
+            "Liga Profesional (- 23/24)": {
+                "Games": 21,
+                "Goals": 18,
+                "Assists": 7,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1589
+            },
+            "Copa de la Liga (- 23/24)": {
+                "Games": 13,
+                "Goals": 1,
+                "Assists": 6,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 854
+            },
+            "Libertadores": {
+                "Games": 10,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 654
+            },
+            "Copa de la Liga - Playoffs": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            },
+            "Trofeo de Campeones Superliga": {
+                "Games": 1,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        }
+    }
+}

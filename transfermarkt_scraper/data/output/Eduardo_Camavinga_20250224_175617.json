@@ -1,0 +1,255 @@
+{
+    "basic_info": {
+        "player_id": "640428",
+        "name": "Eduardo Camavinga",
+        "age": 22,
+        "position": "Midfield - Central Midfield",
+        "height": "1.82",
+        "foot": "left",
+        "agent": "CAA Stellar",
+        "nationality": "Congo, France, Angola"
+    },
+    "market_value_info": {
+        "value": 80000000,
+        "currency": "€",
+        "last_update": "Dec 27, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428",
+    "performance_stats": {
+        "Season 2024": {
+            "LaLiga": {
+                "Games": 11,
+                "Goals": 0,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 638
+            },
+            "UEFA Champions League": {
+                "Games": 6,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 290
+            },
+            "Copa del Rey": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 113
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 135
+            },
+            "UEFA Super Cup": {
+                "Games": 0,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 0
+            }
+        },
+        "Season 2023": {
+            "LaLiga": {
+                "Games": 31,
+                "Goals": 0,
+                "Assists": 2,
+                "Yellow Cards": 9,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1823
+            },
+            "UEFA Champions League": {
+                "Games": 11,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 790
+            },
+            "Copa del Rey": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 164
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 47
+            },
+            "FIFA Intercontinental Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 62
+            }
+        },
+        "Season 2022": {
+            "LaLiga": {
+                "Games": 37,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 6,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2002
+            },
+            "UEFA Champions League": {
+                "Games": 11,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 721
+            },
+            "Copa del Rey": {
+                "Games": 6,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 570
+            },
+            "Club World Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 180
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            },
+            "UEFA Super Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 14
+            }
+        },
+        "Season 2021": {
+            "LaLiga": {
+                "Games": 26,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 9,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1229
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 296
+            },
+            "Ligue 1": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 142
+            },
+            "Copa del Rey": {
+                "Games": 3,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 164
+            },
+            "UECL Qualifiers": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 29
+            },
+            "Supercopa": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 10
+            }
+        },
+        "Season 2020": {
+            "Ligue 1": {
+                "Games": 35,
+                "Goals": 1,
+                "Assists": 2,
+                "Yellow Cards": 6,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2412
+            },
+            "UEFA Champions League": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 331
+            },
+            "Coupe de France": {
+                "Games": 0,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 0
+            }
+        }
+    }
+}

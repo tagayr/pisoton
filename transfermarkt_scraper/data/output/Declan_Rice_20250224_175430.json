@@ -1,0 +1,201 @@
+{
+    "basic_info": {
+        "player_id": "357662",
+        "name": "Declan Rice",
+        "age": 26,
+        "position": "Midfield - Central Midfield",
+        "height": "1.88",
+        "foot": "right",
+        "agent": "Relatives",
+        "nationality": "Ireland, England"
+    },
+    "market_value_info": {
+        "value": 110000000,
+        "currency": "€",
+        "last_update": "Dec 16, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/declan-rice/profil/spieler/357662",
+    "performance_stats": {
+        "Season 2024": {
+            "Premier League": {
+                "Games": 24,
+                "Goals": 1,
+                "Assists": 5,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 1,
+                "Red Cards": 0,
+                "Minutes": 1891
+            },
+            "UEFA Champions League": {
+                "Games": 7,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 502
+            },
+            "EFL Cup": {
+                "Games": 3,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 242
+            },
+            "FA Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 47
+            }
+        },
+        "Season 2023": {
+            "Premier League": {
+                "Games": 38,
+                "Goals": 7,
+                "Assists": 9,
+                "Yellow Cards": 5,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 3231
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 839
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 81
+            },
+            "FA Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            },
+            "EFL Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 33
+            }
+        },
+        "Season 2022": {
+            "Premier League": {
+                "Games": 37,
+                "Goals": 4,
+                "Assists": 2,
+                "Yellow Cards": 5,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 3272
+            },
+            "Conference League": {
+                "Games": 11,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 696
+            },
+            "FA Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 180
+            }
+        },
+        "Season 2021": {
+            "Premier League": {
+                "Games": 36,
+                "Goals": 1,
+                "Assists": 4,
+                "Yellow Cards": 8,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 3178
+            },
+            "Europa League": {
+                "Games": 10,
+                "Goals": 3,
+                "Assists": 0,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 900
+            },
+            "FA Cup": {
+                "Games": 3,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 255
+            },
+            "EFL Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2020": {
+            "Premier League": {
+                "Games": 32,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2880
+            },
+            "FA Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 210
+            },
+            "EFL Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        }
+    }
+}

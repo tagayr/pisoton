@@ -1,0 +1,219 @@
+{
+    "basic_info": {
+        "player_id": "566931",
+        "name": "Xavi Simons",
+        "age": 21,
+        "position": "Midfield - Attacking Midfield",
+        "height": "1.79",
+        "foot": "right",
+        "agent": "Darren Dein",
+        "nationality": "Suriname, Netherlands"
+    },
+    "market_value_info": {
+        "value": 80000000,
+        "currency": "€",
+        "last_update": "Dec 20, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/xavi-simons/profil/spieler/566931",
+    "performance_stats": {
+        "Season 2024": {
+            "Bundesliga": {
+                "Games": 15,
+                "Goals": 5,
+                "Assists": 4,
+                "Yellow Cards": 4,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1287
+            },
+            "UEFA Champions League": {
+                "Games": 5,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 337
+            },
+            "DFB-Pokal": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 89
+            }
+        },
+        "Season 2023": {
+            "Bundesliga": {
+                "Games": 32,
+                "Goals": 8,
+                "Assists": 12,
+                "Yellow Cards": 9,
+                "Second Yellow Cards": 1,
+                "Red Cards": 0,
+                "Minutes": 2676
+            },
+            "UEFA Champions League": {
+                "Games": 8,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 599
+            },
+            "DFB-Pokal": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 115
+            },
+            "DFL-Supercup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 78
+            }
+        },
+        "Season 2022": {
+            "Eredivisie": {
+                "Games": 34,
+                "Goals": 19,
+                "Assists": 9,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2821
+            },
+            "Europa League": {
+                "Games": 7,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 546
+            },
+            "TOTO KNVB Beker": {
+                "Games": 4,
+                "Goals": 1,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 356
+            },
+            "Champions League Qu.": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 60
+            },
+            "Johan Cruijff Schaal": {
+                "Games": 1,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 17
+            }
+        },
+        "Season 2021": {
+            "UEFA Youth League": {
+                "Games": 7,
+                "Goals": 4,
+                "Assists": 6,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 610
+            },
+            "Ligue 1": {
+                "Games": 6,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 128
+            },
+            "National U19 - Grp. A": {
+                "Games": 6,
+                "Goals": 5,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 1,
+                "Minutes": 457
+            },
+            "Coupe de France": {
+                "Games": 3,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 190
+            },
+            "UEFA Champions League": {
+                "Games": 0,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 0
+            },
+            "Trophée des Champions": {
+                "Games": 0,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 0
+            }
+        },
+        "Season 2020": {
+            "National U19 - Grp. A": {
+                "Games": 8,
+                "Goals": 7,
+                "Assists": 6,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 715
+            },
+            "Ligue 1": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1
+            },
+            "Coupe de France": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 12
+            }
+        }
+    }
+}

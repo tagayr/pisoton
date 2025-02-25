@@ -1,0 +1,174 @@
+{
+    "basic_info": {
+        "player_id": "502670",
+        "name": "Khvicha Kvaratskhelia",
+        "age": 24,
+        "position": "Attack - Left Winger",
+        "height": "1.83",
+        "foot": "both",
+        "agent": "N/A",
+        "nationality": "Georgia"
+    },
+    "market_value_info": {
+        "value": 85000000,
+        "currency": "€",
+        "last_update": "Dec 18, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670",
+    "performance_stats": {
+        "Season 2024": {
+            "Serie A": {
+                "Games": 17,
+                "Goals": 5,
+                "Assists": 3,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1187
+            },
+            "Ligue 1": {
+                "Games": 5,
+                "Goals": 1,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 366
+            },
+            "UEFA Champions League": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 113
+            },
+            "Italy Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 104
+            },
+            "Coupe de France": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2023": {
+            "Serie A": {
+                "Games": 34,
+                "Goals": 11,
+                "Assists": 8,
+                "Yellow Cards": 8,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2753
+            },
+            "UEFA Champions League": {
+                "Games": 8,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 672
+            },
+            "Supercoppa Italiana": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 142
+            },
+            "Italy Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 27
+            }
+        },
+        "Season 2022": {
+            "Serie A": {
+                "Games": 34,
+                "Goals": 12,
+                "Assists": 13,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2539
+            },
+            "UEFA Champions League": {
+                "Games": 9,
+                "Goals": 2,
+                "Assists": 4,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 700
+            }
+        },
+        "Season 2021": {
+            "Premier Liga": {
+                "Games": 19,
+                "Goals": 2,
+                "Assists": 5,
+                "Yellow Cards": 6,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1433
+            },
+            "Erovnuli Liga": {
+                "Games": 11,
+                "Goals": 8,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 733
+            },
+            "UECL Qualifiers": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 189
+            },
+            "Russian Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 76
+            }
+        },
+        "Season 2020": {
+            "Premier Liga": {
+                "Games": 23,
+                "Goals": 4,
+                "Assists": 8,
+                "Yellow Cards": 6,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1751
+            }
+        }
+    }
+}

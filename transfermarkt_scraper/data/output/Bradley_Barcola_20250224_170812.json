@@ -1,0 +1,125 @@
+{
+    "basic_info": {
+        "player_id": "708265",
+        "name": "Bradley Barcola",
+        "age": 22,
+        "position": "Attack - Left Winger",
+        "height": "1.82",
+        "foot": "right",
+        "agent": "Gestifute",
+        "nationality": "Togo, France"
+    },
+    "market_value_info": {
+        "value": 65000000,
+        "currency": "€",
+        "last_update": "Dec 10, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265",
+    "performance_stats": {
+        "Season 2024": {
+            "Ligue 1": {
+                "Games": 23,
+                "Goals": 11,
+                "Assists": 6,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1536
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 3,
+                "Assists": 3,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 774
+            },
+            "Coupe de France": {
+                "Games": 3,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 136
+            },
+            "Trophée des Champions": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 23
+            }
+        },
+        "Season 2023": {
+            "Ligue 1": {
+                "Games": 28,
+                "Goals": 4,
+                "Assists": 7,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 1,
+                "Red Cards": 0,
+                "Minutes": 1647
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 475
+            },
+            "Coupe de France": {
+                "Games": 3,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 178
+            },
+            "Trophée des Champions": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 66
+            }
+        },
+        "Season 2022": {
+            "Ligue 1": {
+                "Games": 26,
+                "Goals": 5,
+                "Assists": 9,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1437
+            },
+            "Coupe de France": {
+                "Games": 5,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 352
+            },
+            "National 2 - Grp. C": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 340
+            }
+        }
+    }
+}

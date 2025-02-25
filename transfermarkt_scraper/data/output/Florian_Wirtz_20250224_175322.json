@@ -1,0 +1,165 @@
+{
+    "basic_info": {
+        "player_id": "598577",
+        "name": "Florian Wirtz",
+        "age": 21,
+        "position": "Midfield - Attacking Midfield",
+        "height": "1.77",
+        "foot": "right",
+        "agent": "Relatives",
+        "nationality": "Germany"
+    },
+    "market_value_info": {
+        "value": 140000000,
+        "currency": "€",
+        "last_update": "Dec 20, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577",
+    "performance_stats": {
+        "Season 2024": {
+            "Bundesliga": {
+                "Games": 23,
+                "Goals": 9,
+                "Assists": 11,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1784
+            },
+            "UEFA Champions League": {
+                "Games": 8,
+                "Goals": 6,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 686
+            },
+            "DFB-Pokal": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 253
+            },
+            "DFL-Supercup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 17
+            }
+        },
+        "Season 2023": {
+            "Bundesliga": {
+                "Games": 32,
+                "Goals": 11,
+                "Assists": 12,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2384
+            },
+            "Europa League": {
+                "Games": 11,
+                "Goals": 4,
+                "Assists": 4,
+                "Yellow Cards": 4,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 705
+            },
+            "DFB-Pokal": {
+                "Games": 6,
+                "Goals": 3,
+                "Assists": 4,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 386
+            }
+        },
+        "Season 2022": {
+            "Bundesliga": {
+                "Games": 17,
+                "Goals": 1,
+                "Assists": 6,
+                "Yellow Cards": 4,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1091
+            },
+            "Europa League": {
+                "Games": 8,
+                "Goals": 3,
+                "Assists": 2,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 725
+            }
+        },
+        "Season 2021": {
+            "Bundesliga": {
+                "Games": 24,
+                "Goals": 7,
+                "Assists": 10,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 1863
+            },
+            "Europa League": {
+                "Games": 6,
+                "Goals": 3,
+                "Assists": 4,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 438
+            },
+            "DFB-Pokal": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 26
+            }
+        },
+        "Season 2020": {
+            "Bundesliga": {
+                "Games": 29,
+                "Goals": 5,
+                "Assists": 6,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2229
+            },
+            "Europa League": {
+                "Games": 7,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 438
+            },
+            "DFB-Pokal": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 165
+            }
+        }
+    }
+}

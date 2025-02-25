@@ -1,0 +1,228 @@
+{
+    "basic_info": {
+        "player_id": "581678",
+        "name": "Jude Bellingham",
+        "age": 21,
+        "position": "Midfield - Attacking Midfield",
+        "height": "1.86",
+        "foot": "right",
+        "agent": "N/A",
+        "nationality": "Ireland, England"
+    },
+    "market_value_info": {
+        "value": 180000000,
+        "currency": "€",
+        "last_update": "Dec 27, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678",
+    "performance_stats": {
+        "Season 2024": {
+            "LaLiga": {
+                "Games": 20,
+                "Goals": 7,
+                "Assists": 7,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 1,
+                "Minutes": 1634
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 3,
+                "Assists": 3,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 837
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 1,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 180
+            },
+            "UEFA Super Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 88
+            },
+            "Copa del Rey": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 31
+            }
+        },
+        "Season 2023": {
+            "LaLiga": {
+                "Games": 28,
+                "Goals": 19,
+                "Assists": 6,
+                "Yellow Cards": 5,
+                "Second Yellow Cards": 0,
+                "Red Cards": 1,
+                "Minutes": 2324
+            },
+            "UEFA Champions League": {
+                "Games": 11,
+                "Goals": 4,
+                "Assists": 5,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 994
+            },
+            "Supercopa": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 206
+            },
+            "FIFA Intercontinental Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 88
+            },
+            "Copa del Rey": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 120
+            }
+        },
+        "Season 2022": {
+            "Bundesliga": {
+                "Games": 31,
+                "Goals": 8,
+                "Assists": 5,
+                "Yellow Cards": 8,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2692
+            },
+            "UEFA Champions League": {
+                "Games": 7,
+                "Goals": 4,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 630
+            },
+            "DFB-Pokal": {
+                "Games": 4,
+                "Goals": 2,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 235
+            }
+        },
+        "Season 2021": {
+            "Bundesliga": {
+                "Games": 32,
+                "Goals": 3,
+                "Assists": 8,
+                "Yellow Cards": 9,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2795
+            },
+            "UEFA Champions League": {
+                "Games": 6,
+                "Goals": 1,
+                "Assists": 3,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 502
+            },
+            "DFB-Pokal": {
+                "Games": 3,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 235
+            },
+            "Europa League": {
+                "Games": 2,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 180
+            },
+            "DFL-Supercup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 84
+            }
+        },
+        "Season 2020": {
+            "Bundesliga": {
+                "Games": 29,
+                "Goals": 1,
+                "Assists": 3,
+                "Yellow Cards": 4,
+                "Second Yellow Cards": 1,
+                "Red Cards": 0,
+                "Minutes": 1702
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 1,
+                "Assists": 1,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 687
+            },
+            "DFB-Pokal": {
+                "Games": 6,
+                "Goals": 2,
+                "Assists": 0,
+                "Yellow Cards": 3,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 420
+            },
+            "DFL-Supercup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 14
+            }
+        }
+    }
+}

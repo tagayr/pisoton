@@ -1,0 +1,228 @@
+{
+    "basic_info": {
+        "player_id": "357565",
+        "name": "Rodri",
+        "age": 28,
+        "position": "Midfield - Defensive Midfield",
+        "height": "1.91",
+        "foot": "right",
+        "agent": "Pablo Barquero",
+        "nationality": "Spain"
+    },
+    "market_value_info": {
+        "value": 130000000,
+        "currency": "€",
+        "last_update": "Dec 16, 2024"
+    },
+    "profile_url": "https://www.transfermarkt.com/rodri/profil/spieler/357565",
+    "performance_stats": {
+        "Season 2024": {
+            "Premier League": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 66
+            },
+            "UEFA Champions League": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2023": {
+            "Premier League": {
+                "Games": 34,
+                "Goals": 8,
+                "Assists": 9,
+                "Yellow Cards": 8,
+                "Second Yellow Cards": 0,
+                "Red Cards": 1,
+                "Minutes": 2938
+            },
+            "UEFA Champions League": {
+                "Games": 8,
+                "Goals": 1,
+                "Assists": 3,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 698
+            },
+            "FA Cup": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 360
+            },
+            "Club World Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 151
+            },
+            "UEFA Super Cup": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2022": {
+            "Premier League": {
+                "Games": 36,
+                "Goals": 2,
+                "Assists": 6,
+                "Yellow Cards": 5,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2921
+            },
+            "UEFA Champions League": {
+                "Games": 12,
+                "Goals": 2,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 996
+            },
+            "FA Cup": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 304
+            },
+            "EFL Cup": {
+                "Games": 3,
+                "Goals": 0,
+                "Assists": 1,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 167
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 90
+            }
+        },
+        "Season 2021": {
+            "Premier League": {
+                "Games": 33,
+                "Goals": 7,
+                "Assists": 2,
+                "Yellow Cards": 5,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2888
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 2,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 842
+            },
+            "FA Cup": {
+                "Games": 2,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 173
+            },
+            "Community Shield": {
+                "Games": 1,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 25
+            },
+            "EFL Cup": {
+                "Games": 0,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 0
+            }
+        },
+        "Season 2020": {
+            "Premier League": {
+                "Games": 34,
+                "Goals": 2,
+                "Assists": 2,
+                "Yellow Cards": 6,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 2748
+            },
+            "UEFA Champions League": {
+                "Games": 10,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 1,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 785
+            },
+            "EFL Cup": {
+                "Games": 5,
+                "Goals": 0,
+                "Assists": 0,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 229
+            },
+            "FA Cup": {
+                "Games": 4,
+                "Goals": 0,
+                "Assists": 3,
+                "Yellow Cards": 0,
+                "Second Yellow Cards": 0,
+                "Red Cards": 0,
+                "Minutes": 230
+            }
+        }
+    }
+}
