@@ -1,0 +1,16 @@
+# Virtual environment
+pisoton_env/
+
+
+# Machine Learning models
+value_prediction/models/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore all files in the data directory
+value_prediction/data/*
+transfermarkt_scraper/data/*
+
