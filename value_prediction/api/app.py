@@ -1,60 +1,80 @@
+# import streamlit as st
 import streamlit as st
-import pandas as pd
-import pickle
+import psycopg2
+from typing import Optional
 
-# Load the model and data
-with open('model.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-# Load player database 
-players_df = pd.read_csv('players_database.csv')  # Adjust filename as needed
-
-# Set up the Streamlit page
-st.title('Football Player Value Predictor')
-
-# Create a search box
-search_name = st.text_input('Search for a player:')
-
-if search_name:
-    # Filter players based on search input
-    filtered_players = players_df[players_df['name'].str.contains(search_name, case=False, na=False)]
+def get_player_from_db(name: str) -> Optional[dict]:
+    """Get player data from SQLite database"""
+    conn = psycopg2.connect(
+        dbname="your_database",
+        user="your_user",
+        password="your_password",
+        host="your_host",
+        port="5432"
+    )
+    cursor = conn.cursor()
     
-    if len(filtered_players) > 0:
-        # Display matching players in a selectbox
-        selected_player = st.selectbox(
-            'Select a player:',
-            filtered_players['name'].tolist()
-        )
+    try:
+        cursor.execute("""
+            SELECT name, market_value, currency, market_value_last_update 
+            FROM players 
+            WHERE name LIKE ? 
+            ORDER BY market_value_last_update DESC
+            LIMIT 1
+        """, (f'%{name}%',))
         
-        if selected_player:
-            # Get player data
-            player_data = filtered_players[filtered_players['name'] == selected_player].iloc[0]
-            
-            # Display player information
-            st.write('### Player Information')
-            st.write(f"Current Market Value: €{player_data['market_value']:,.2f}")
-            
-            # Prepare features for prediction
-            features = player_data[model.feature_names_]  # Adjust based on your model features
-            
-            # Make prediction
-            predicted_value = model.predict([features])[0]
-            
-            st.write(f"Predicted Market Value: €{predicted_value:,.2f}")
-            
-            # Calculate difference
-            difference = predicted_value - player_data['market_value']
-            difference_percent = (difference / player_data['market_value']) * 100
-            
-            st.write(f"Difference: €{difference:,.2f} ({difference_percent:.1f}%)")
+        result = cursor.fetchone()
+        
+        if result:
+            return {
+                'name': result[0],
+                'market_value': result[1],
+                'currency': result[2],
+                'last_update': result[3]
+            }
+        return None
+        
+    finally:
+        conn.close()
+
+def predict_value(player_data: dict) -> float:
+    """
+    Predict player market value using trained model
+    TODO: Implement actual model prediction
+    """
+    # Placeholder - replace with actual model prediction
+    return player_data['market_value'] * 1.1
+
+# App title
+st.title('Football Player Market Value Predictor')
+
+# Search box
+player_name = st.text_input('Enter player name')
+
+if player_name:
+    player_data = get_player_from_db(player_name)
+    
+    if player_data:
+        st.success(f"Found player: {player_data['name']}")
+        
+        # Display actual market value
+        st.subheader('Current Market Value (Transfermarkt)')
+        st.write(f"{player_data['market_value']:,} {player_data['currency']}")
+        st.write(f"Last updated: {player_data['last_update']}")
+        
+        # Display predicted value
+        predicted_value = predict_value(player_data)
+        st.subheader('Predicted Market Value')
+        st.write(f"{predicted_value:,} {player_data['currency']}")
+        
+        # Show difference
+        diff = predicted_value - player_data['market_value']
+        diff_percent = (diff / player_data['market_value']) * 100
+        
+        if diff > 0:
+            st.write(f"Our model predicts a value **{diff_percent:.1f}%** higher than the current market value")
+        else:
+            st.write(f"Our model predicts a value **{abs(diff_percent):.1f}%** lower than the current market value")
             
     else:
-        st.write('No players found matching your search.')
-
-# Add some instructions
-st.sidebar.markdown("""
-## How to use
-1. Enter a player's name in the search box
-2. Select the player from the dropdown
-3. View the current and predicted market values
-""")
+        st.error(f"No player found with name '{player_name}'")
